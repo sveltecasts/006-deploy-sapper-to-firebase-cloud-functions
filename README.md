@@ -18,4 +18,3 @@ To loearn mor about Sapper consult [sapper.svelte.dev](https://sapper.svelte.dev
 ## Youtube
 
 I made a Youtube video where i deploy the Sapper template to Firebase, check it out here:
-
