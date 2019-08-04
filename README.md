@@ -5,7 +5,7 @@ Here i deploy the the default [Sapper](https://github.com/sveltejs/sapper) templ
 Try it by yourself, install the Firebase Client on your Computer, change the Project Id in the  .firebaserc File , an deploy it in the Cloud 
 
 ```bash
-npx degit "sveltecasts/006-sapper-firebase-cloud-functions" my-app
+npx degit "sveltecasts/006-deploy-sapper-to-firebase-cloud-functions" my-app
 cd my-app/functions
 npm install
 npm run deploy
