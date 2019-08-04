@@ -6,8 +6,8 @@ Try it by yourself, install the Firebase Client on your Computer, change the .fi
 
 ```bash
 # for Rollup
-npx degit "sveltecasts/006-sapper-firebase-cloud-functions" fb-cf
-cd fb-cf
+npx degit "sveltecasts/006-sapper-firebase-cloud-functions" my-app
+cd my-app/functions
 npm install
 npm run deploy
 ```
